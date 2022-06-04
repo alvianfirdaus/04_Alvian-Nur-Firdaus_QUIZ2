@@ -1,7 +1,7 @@
 # **Assalamualaikum Wr Wb** 
 # Praktikum-Algoritma-dan-Struktur-Data-
 
-## **Repository ini berisi tentang Laporan dan pengumpulan Jobseat Praktikum Algoritma dan struktur data**
+## **Repository ini berisi tentang Laporan dan pengumpulan Kuis 2 Praktikum Algoritma dan struktur data**
 
 - Nama    : Alvian Nur Firdaus
 - Kelas   : 1F
